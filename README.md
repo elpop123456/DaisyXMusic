@@ -1,11 +1,11 @@
 <h1 align="center">DAISYX MUSIC V5.0 🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
-#### POWERED BY [MARSHALX TGCALLS](https://github.com/elpop/123456tgcalls)
-### Available on telegram as [@DaisyXbot](https://t.me/daisyxbot)
+#### POWERED BY [elpop](https://github.com/elpop123456)
+### Available on telegram as [@elpopyXbot](https://t.me/elpop786)
 
 <p align="center">
-  <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg">
+  <img src="https://telegra.ph/file/be6cd83db527786e9802a.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
@@ -26,11 +26,11 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDaisyX/DaisyXMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/elpop123456)
 
 Get pyrogram (p)  `SESSION` from here:
 
-[![Run on Repl.it](https://repl.it/badge/github/ChankitSaini/GenerateStringSession)](https://replit.com/@ChankitSaini/GenerateStringSession)
+[![Run on Repl.it](https://repl.it/badge/github/ChankitSaini/GenerateStringSession)](https://replit.com/@y_alaa2/GenerateStringSession)
 
 ### ⚔ Self-hosting (For Devs) 
 ```sh
@@ -123,10 +123,10 @@ Also DaisyXmusic is inspired by many opensource bots and userbots
 - [lucifeermorningstar](https://github.com/lucifeermorningstar): Dev / Owner
 - [Technical-Hunter](https://github.com/Technical-Hunter): Dev / Owner
 - [Hellboy-OP](https://github.com/hellboy-op)
-- [Roj Serbest](http://github.com/rojserbest): Developer of callsmusic 
-- [DeshadeethThisarana](https://github.com/deshadeeth-thisarana): Dev
+- [Roj Serbest](http://github.com/y_alaa2): Developer of callsmusic 
+- [DeshadeethThisarana](https://github.com/y_alaa2): Dev
 - [Wrench](https://github.com/EverythingSuckz/): Dev
-- [Bemro](https://github.com/bemroofficial): Dev
+- [Bemro](https://github.com/elpop123456): Dev
 - [QueenArzoo](https://github.com/QueenArzoo): Dev
 - [Anjana-Ma](https://github.com/Anjana-Ma): Dev
 - [ImJanindu](https://github.com/ImJanindu): Dev
@@ -135,8 +135,8 @@ Also DaisyXmusic is inspired by many opensource bots and userbots
 
 ## Copyright & License 👮
 
- - Copyright (C) 2020 - 2021 by [TeamDaisyX](github.com/teamdaisyx) ❤️️
- - Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/TeamDaisyX/DaisyXMusic/blob/master/LICENSE)
+ - Copyright (C) 2020 - 2021 by [TeamDaisyX](github.com/elpop123456) ❤️️
+ - Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/elpop123456)
     
 DaisyXMusic is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.    
-## Made with ♥️ by [TeamDaisyX](https://github.com/TeamDaisyX)
+## Made with ♥️ by [Teamelpop](https://github.com/elpop123456)
