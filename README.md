@@ -1,7 +1,7 @@
 <h1 align="center">DAISYX MUSIC V5.0 🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
-#### POWERED BY [MARSHALX TGCALLS](https://github.com/MarshalX/tgcalls)
+#### POWERED BY [MARSHALX TGCALLS](https://github.com/elpop/123456tgcalls)
 ### Available on telegram as [@DaisyXbot](https://t.me/daisyxbot)
 
 <p align="center">
