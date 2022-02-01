@@ -2,7 +2,7 @@
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [elpop](https://github.com/elpop123456)
-### Available on telegram as [@elpopyXbot](https://t.me/elpop786)
+### Available on telegram as [@y_alaa2](https://t.me/y_alaa2)
 
 <p align="center">
   <img src="https://telegra.ph/file/be6cd83db527786e9802a.jpg">
@@ -30,8 +30,7 @@
 
 Get pyrogram (p)  `SESSION` from here:
 
-[![Run on Repl.it](https://repl.it/badge/github/ChankitSaini/GenerateStringSession)](https://replit.com/@y_alaa2/GenerateStringSession)
-
+[![Run on Repl.it](https://repl.it/badge/github/ChankitSaini/GenerateStringSession)
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-get install git)
@@ -119,11 +118,11 @@ This project is inspired on the hard work done by [Rojserbest](http://github.com
 Also DaisyXmusic is inspired by many opensource bots and userbots
 
 #### Contributors
-- [InukaAsith](https://github.com/InukaAsith): Dev / Owner
-- [lucifeermorningstar](https://github.com/lucifeermorningstar): Dev / Owner
-- [Technical-Hunter](https://github.com/Technical-Hunter): Dev / Owner
+- [@y_alaa2](https://t.me/y_alaa2)Owner Bot
+- [@lucifeermorningsta](https://github.com/lucifeermorningstar): Dev / Owner
+- [@Technical-Hunter](https://github.com/Technical-Hunter): Dev / Owner
 - [Hellboy-OP](https://github.com/hellboy-op)
-- [Roj Serbest](http://github.com/y_alaa2): Developer of callsmusic 
+- [@Roj Serbest](http://github.com/y_alaa2): Developer of callsmusic 
 - [DeshadeethThisarana](https://github.com/y_alaa2): Dev
 - [Wrench](https://github.com/EverythingSuckz/): Dev
 - [Bemro](https://github.com/elpop123456): Dev
@@ -139,4 +138,4 @@ Also DaisyXmusic is inspired by many opensource bots and userbots
  - Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/elpop123456)
     
 DaisyXMusic is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.    
-## Made with ♥️ by [Teamelpop](https://github.com/elpop123456)
+## Made with ♥️ by [TeamIsco](https://t.me/Almod_amar1)
